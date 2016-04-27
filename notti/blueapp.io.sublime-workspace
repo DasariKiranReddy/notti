@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"md-",
+				"md-button"
+			],
+			[
+				"md-l",
+				"md-list-item"
+			],
+			[
+				"an",
+				"angular"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"p",
+				"phonecatControllers"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"phon",
+				"phone"
+			],
+			[
+				"i",
+				"imageUrl"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Kiran_Workspace/smartLight/app.js",
+		"/D/Kiran_Workspace/smartLight/index.html",
+		"/D/Kiran_Workspace/smartLight/smartlight.js",
+		"/D/Kiran_Workspace/smartLight/style.css",
+		"/D/KIran_Workspace/smartLight/app.js",
+		"/D/KIran_Workspace/smartLight/samatlight.js",
+		"/D/KIran_Workspace/smartLight/index.html",
+		"/D/KIran_Workspace/smartLight/style.css",
+		"/D/KIran_Workspace/appMaterial/index.html",
+		"/D/KIran_Workspace/app/js/app.js",
+		"/D/KIran_Workspace/app/js/filters.js",
+		"/D/KIran_Workspace/app/js/controllers.js",
+		"/D/KIran_Workspace/app/partials/phone-detail.html",
+		"/D/KIran_Workspace/app/phones/nexus-s.json",
+		"/D/KIran_Workspace/app/js/services.js",
+		"/D/KIran_Workspace/app/bower_components/bower.json",
+		"/D/KIran_Workspace/app/index.html",
+		"/D/KIran_Workspace/app/partials/phone-list.html",
+		"/D/KIran_Workspace/app/phones/phones.json",
+		"/D/KIran_Workspace/test/unit/controllersSpec.js",
+		"/D/KIran_Workspace/test/e2e/scenarios.js",
+		"/D/KIran_Workspace/Phone/app/phones/phones.json",
+		"/D/KIran_Workspace/Phone/test/unit/controllersSpec.js",
+		"/D/KIran_Workspace/Phone/test/e2e/scenarios.js",
+		"/D/KIran_Workspace/Phone/test/karma.conf.js",
+		"/D/KIran_Workspace/Phone/app/js/controllers.js",
+		"/D/KIran_Workspace/Phone/app/js/app.js",
+		"/D/KIran_Workspace/Phone/app/js/filters.js",
+		"/D/KIran_Workspace/Phone/test/unit/filtersSpec.js",
+		"/D/KIran_Workspace/Phone/app/css/app.css",
+		"/D/KIran_Workspace/Phone/app/partials/phone-detail.html",
+		"/D/KIran_Workspace/Phone/app/css/animations.css",
+		"/D/KIran_Workspace/Phone/app/partials/phone-list.html",
+		"/D/KIran_Workspace/Phone/app/phones/nexus-s.json",
+		"/D/KIran_Workspace/Phone/app/js/services.js",
+		"/D/KIran_Workspace/Phone/app/js/animations.js",
+		"/D/KIran_Workspace/Phone/app/index.html",
+		"/D/Murali_Workspace/wwwjuly09/app/apps/API/controllers/api_gateway.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+			"D:\\KIran_Workspace\\appMaterial\\avator\\svg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"map-view\n",
+			"api_app",
+			"<!\n",
+			"updateinvitation",
+			"userRoleDDLIndex1",
+			"is-equal-shallow",
+			"module.js",
+			"session",
+			"session		",
+			"session				",
+			"your",
+			"your session",
+			"organizations",
+			"organizationscon",
+			"please",
+			"session e",
+			"your session is expired",
+			"ERR_",
+			"failed to load ",
+			"uname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blueapp.io.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 131.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
